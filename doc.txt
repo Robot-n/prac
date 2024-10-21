@@ -1,0 +1,4 @@
+docker run -it -v  path:/usr/src/app/ -w /usr/src/app python python app.py
+  docker run -it -v  path:/usr/src/app/ -w /usr/src/app openjdk javac Main.java
+    
+  docker run -it -v  path:/usr/src/app/ -w /usr/src/app openjdk java Main

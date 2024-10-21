@@ -1,0 +1,13 @@
+git clone <repo-name>
+git status
+git add .
+git add <name>
+cd <repo-name>
+git push origin main
+git commit -m "first(or any thing)"
+git commit -am "first(or any thing)"
+git log
+git config --global user.name "your_name"
+git config --global user.email "email"
+git branch <name>(create new branch)
+git rm <file_name>

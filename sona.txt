@@ -1,0 +1,6 @@
+sonar.projectKey="sqp_b43c98e00149b26aecde6b9120985570bef8ec24"
+sonar.projectName="Python"
+sonar.sourceEncoding=UTF-8
+sonar.sources=.
+sonar.java.binaries=target/classes
+sonar.exclusions=**/*.java

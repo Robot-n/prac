@@ -1,0 +1,2 @@
+aws s3 mb s3://newgenji1
+aws s3 cp 2.html s3://newgenji1
